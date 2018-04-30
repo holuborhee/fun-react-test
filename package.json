@@ -1,0 +1,19 @@
+{
+  "name": "fun-react-test",
+  "version": "1.0.0",
+  "description": "Practice Various React test tools and CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holuborhee/fun-react-test.git"
+  },
+  "author": "olubori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holuborhee/fun-react-test/issues"
+  },
+  "homepage": "https://github.com/holuborhee/fun-react-test#readme"
+}
